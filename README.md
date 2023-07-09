@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I'm currently working at Teky Academy as a Technology Instructor
 - 🌱 I am skilled in using programming languages and web technologies such as:
-      HTML/CSS/Javascript
+      \HTML/CSS/Javascript
       Bootstrap/SCSS/React
       Python and C#
       Design Databases/SQL Server
