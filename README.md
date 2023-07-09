@@ -1,13 +1,13 @@
 ### Hi there 👋
 🔭 I'm currently working at Teky Academy as a Technology Instructor
 
-🌱 I am skilled in using programming languages and web technologies such as:
+🌱 I can use programming languages and web technologies such as:
 - HTML/CSS/Javascript
 - Bootstrap/SCSS/React
 - Python and C#
 - Design Databases/SQL Server
   
-⚡Projects:
+⚡My Projects:
 -    [Tomodo: Todo List and Pomodoro App (React/SCSS)](https://anhcuonghuynhnguyen.github.io/tomodo/)
 -    [Portfolio Website (HTML/CSS/Javascript)](https://anhcuonghuynhnguyen.github.io/my-portfolio.github.io/)
 -    [Clone Web: Web Bootstrap clone the UI template (Bootstrap/CSS)](https://anhcuonghuynhnguyen.github.io/cuong-clone-web.github.io/)
