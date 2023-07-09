@@ -7,7 +7,7 @@
 - Python and C#
 - Design Databases/SQL Server
   
-⚡Project:
+⚡Projects:
 -    [Tomodo: Todo List and Pomodoro App (React/SCSS)](https://anhcuonghuynhnguyen.github.io/tomodo/)
 -    [Portfolio Website (HTML/CSS/Javascript)](https://anhcuonghuynhnguyen.github.io/my-portfolio.github.io/)
 -    [Clone Web: Web Bootstrap clone the UI template (Bootstrap/CSS)](https://anhcuonghuynhnguyen.github.io/cuong-clone-web.github.io/)
