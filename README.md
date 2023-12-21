@@ -6,6 +6,7 @@
 - Bootstrap/SCSS/React
 - Python and C#
 - Design Databases/SQL Server
+- Data Mining and Data Analysis
   
 ⚡My Projects:
 -    [Tomodo: Todo List and Pomodoro App (React/SCSS)](https://anhcuonghuynhnguyen.github.io/tomodo/)
