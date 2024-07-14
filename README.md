@@ -1,14 +1,18 @@
 ### Hi there 👋
 🔭 I'm currently working at Teky Academy as a Technology Instructor
 
-🌱 I can use programming languages and web technologies such as:
+🌱 I can use programming languages and technologies such as:
+- Big Data (Hadoop, Spark)
+- Apache Airflow
+- Data Mining and Data Analysis
+- Data Visualization: Power BI 
 - HTML/CSS/Javascript
 - Bootstrap/SCSS/React
 - Python and C#
 - Design Databases/SQL Server
-- Data Mining and Data Analysis
   
 ⚡My Projects:
+-    [Final_ETL_App: ETL and Big Data System for the US Stock Market](https://github.com/anhcuonghuynhnguyen/Final_ETL_App/)
 -    [Tomodo: Todo List and Pomodoro App (React/SCSS)](https://anhcuonghuynhnguyen.github.io/tomodo/)
 -    [Portfolio Website (HTML/CSS/Javascript)](https://anhcuonghuynhnguyen.github.io/my-portfolio.github.io/)
 -    [Clone Web: Web Bootstrap clone the UI template (Bootstrap/CSS)](https://anhcuonghuynhnguyen.github.io/cuong-clone-web.github.io/)
